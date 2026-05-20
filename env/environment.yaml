@@ -1,4 +1,4 @@
-name: app_bosch_homecomfort_env
+name: environment
 channels:
   - defaults
 dependencies:
